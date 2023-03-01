@@ -18,5 +18,6 @@ setup(
     license='MIT',
     author='nibuiro',
     author_email='immay1999@gmail.com',
-    description='Implementation of condconv: Conditionally Parameterized Convolutions for Efficient Inference. '
+    description='Implementation of condconv: Conditionally Parameterized Convolutions for Efficient Inference. ',
+    zip_safe = False
 )
